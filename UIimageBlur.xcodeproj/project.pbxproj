@@ -227,7 +227,7 @@
 				TargetAttributes = {
 					CC5762591E541A74002A9776 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = 4JFR4NTMKQ;
+						DevelopmentTeam = Q9K643Z8J7;
 						ProvisioningStyle = Automatic;
 					};
 					CC5762721E541A74002A9776 = {
@@ -447,9 +447,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4JFR4NTMKQ;
+				DEVELOPMENT_TEAM = Q9K643Z8J7;
 				INFOPLIST_FILE = UIimageBlur/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = WBY.UIimageBlur;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -460,9 +460,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 4JFR4NTMKQ;
+				DEVELOPMENT_TEAM = Q9K643Z8J7;
 				INFOPLIST_FILE = UIimageBlur/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = WBY.UIimageBlur;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -534,6 +534,7 @@
 				CC5762891E541A74002A9776 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CC57628A1E541A74002A9776 /* Build configuration list for PBXNativeTarget "UIimageBlurTests" */ = {
 			isa = XCConfigurationList;
@@ -542,6 +543,7 @@
 				CC57628C1E541A74002A9776 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		CC57628D1E541A74002A9776 /* Build configuration list for PBXNativeTarget "UIimageBlurUITests" */ = {
 			isa = XCConfigurationList;
@@ -550,6 +552,7 @@
 				CC57628F1E541A74002A9776 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
